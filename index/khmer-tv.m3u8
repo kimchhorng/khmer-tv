@@ -1,49 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ApsaraTV11.kh" group-title="A" tvg-logo="https://i.imgur.com/9wJe71I.png",Apsara TV11 (720p)
+#EXTINF:-1 tvg-id="ApsaraTV11.kh" group-title="General" tvg-logo="https://i.imgur.com/9wJe71I.png",Apsara TV11 (720p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh" group-title="B" tvg-logo="https://i.imgur.com/Gry2KEN.jpg",Bayon TV
+#EXTINF:-1 tvg-id="BayonTV.kh" group-title="General" tvg-logo="https://i.imgur.com/Gry2KEN.jpg",Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh" group-title="B" tvg-logo="https://i.imgur.com/Gry2KEN.jpg",Bayon TV (720p)
-https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh" group-title="B" tvg-logo="https://i.imgur.com/bV6sawt.png",BTV News (720p)
+#EXTINF:-1 tvg-id="BTVNews.kh" group-title="News" tvg-logo="https://i.imgur.com/bV6sawt.png",BTV News (720p)
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CTV9.kh" group-title="C" tvg-logo="https://i.imgur.com/P8oOR8I.png",CTV 9
+#EXTINF:-1 tvg-id="CTV9.kh" group-title="General" tvg-logo="https://i.imgur.com/P8oOR8I.png",CTV 9
 https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
-#EXTINF:-1 tvg-id="CTV9.kh" group-title="C" tvg-logo="https://i.imgur.com/P8oOR8I.png",CTV 9 (720p)
-https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FreshNews.kh" group-title="F" tvg-logo="https://i.imgur.com/TilslGU.png",Fresh News (720p)
+#EXTINF:-1 tvg-id="FreshNews.kh" group-title="News" tvg-logo="https://i.imgur.com/TilslGU.png",Fresh News (720p)
 https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" group-title="H" tvg-logo="https://i.imgur.com/SoBhuIb.png",Hang Meas HDTV (1080p)
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh" group-title="Entertainment" tvg-logo="https://i.imgur.com/SoBhuIb.png",Hang Meas HDTV (1080p)
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="iTVHD.kh" group-title="I" tvg-logo="https://i.imgur.com/ObtFGBW.png",iTV HD
+#EXTINF:-1 tvg-id="iTVHD.kh" group-title="Entertainment" tvg-logo="https://i.imgur.com/ObtFGBW.png",iTV HD
 http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
-#EXTINF:-1 tvg-id="MSJTV.kh" group-title="M" tvg-logo="https://i.imgur.com/EcqEMMg.png",MSJ TV (1080p)
+#EXTINF:-1 tvg-id="MSJTV.kh" group-title="General" tvg-logo="https://i.imgur.com/EcqEMMg.png",MSJ TV (1080p)
 #EXTVLCOPT:http-referrer=https://www.iptvservice.site/
 https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MSJTV.kh" group-title="M" tvg-logo="https://i.imgur.com/EcqEMMg.png",MSJ TV (720p)
-http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="N" tvg-logo="https://i.imgur.com/l6lmlqG.png",Netlink TV (720p)
+#EXTINF:-1 tvg-id="NetlinkTV.kh" group-title="General" tvg-logo="https://i.imgur.com/l6lmlqG.png",Netlink TV (720p)
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="NTV.kh" group-title="N" tvg-logo="https://i.imgur.com/76XWq08.png",NTV
+#EXTINF:-1 tvg-id="NTV.kh" group-title="General" tvg-logo="https://i.imgur.com/76XWq08.png",NTV
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
-#EXTINF:-1 tvg-id="PNN.kh" group-title="P" tvg-logo="https://i.imgur.com/iMZLyoX.png",PNN (720p)
+#EXTINF:-1 tvg-id="PNN.kh" group-title="General" tvg-logo="https://i.imgur.com/iMZLyoX.png",PNN (720p)
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" group-title="R" tvg-logo="https://i.imgur.com/5hPxjcl.png",Rasmey Hang Meas HDTV (720p)
+#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" group-title="Entertainment" tvg-logo="https://i.imgur.com/5hPxjcl.png",Rasmey Hang Meas HDTV (720p)
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SEATV.kh" group-title="S" tvg-logo="https://i.imgur.com/FYqvxUM.png",SEATV (1080p)
+#EXTINF:-1 tvg-id="SEATV.kh" group-title="General" tvg-logo="https://i.imgur.com/FYqvxUM.png",SEATV (1080p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="" group-title="S" tvg-logo="https://i.imgur.com/FYqvxUM.png",SEATV-Radio (720p)
+#EXTINF:-1 tvg-id="SEATVRadio.kh" group-title="Radio" tvg-logo="https://i.imgur.com/FYqvxUM.png",SEATV-Radio (720p)
 https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh" group-title="T" tvg-logo="https://i.imgur.com/9fUGvVG.png",Town TV
+#EXTINF:-1 tvg-id="TownTV.kh" group-title="General" tvg-logo="https://i.imgur.com/9fUGvVG.png",Town TV
 https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh" group-title="T" tvg-logo="https://i.imgur.com/9fUGvVG.png",Town TV (720p)
-https://live.kh.malimarcdn.com/live/towntv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3.kh" group-title="T" tvg-logo="https://i.imgur.com/DTtK0z7.png",TV 3 (720p)
+#EXTINF:-1 tvg-id="TV3.kh" group-title="General" tvg-logo="https://i.imgur.com/DTtK0z7.png",TV 3 (720p)
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh" group-title="T" tvg-logo="https://i.imgur.com/DTtK0z7.png",TV5 Cambodia
+#EXTINF:-1 tvg-id="TV5Cambodia.kh" group-title="General" tvg-logo="https://i.imgur.com/DTtK0z7.png",TV5 Cambodia
 http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh" group-title="T" tvg-logo="https://i.imgur.com/DTtK0z7.png",TV5 Cambodia (720p)
-https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia
-::contentReference[oaicite:0]{index=0}
- 
+#EXTINF:-1 tvg-id="TVK.kh" group-title="General" tvg-logo="https://i.imgur.com/DTtK0z7.png",TVK (720p)
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh" group-title="General" tvg-logo="https://i.imgur.com/DTtK0z7.png",TVK 2 (720p)
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh" group-title="Education" tvg-logo="https://i.imgur.com/DTtK0z7.png",WIKI TV (720p)
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
